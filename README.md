@@ -13,6 +13,9 @@ AES-256 ZIP Brute Force Tool: A simple Python script to brute-force ZIP files en
 - `pyzipper` library
 
 Install `pyzipper` with:
+```bash
+pip install pyzipper
+```
 
 ---
 
